@@ -1,6 +1,0 @@
-echo "# ML-for-deployment" >> assignment1
-git init
-git add assignment1
-git commit -m "first commit"
-git remote add origin https://github.com/Adithya-Sharma/ML-for-deployment.git
-git push -u origin master
